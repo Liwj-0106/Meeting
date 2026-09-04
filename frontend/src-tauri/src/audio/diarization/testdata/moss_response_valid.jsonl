@@ -1,0 +1,1 @@
+{"schema":1,"job":"job-0001","session":"session-0001","window_start_frame":48000,"window_end_frame":96000,"segments":[{"start_frame":50000,"end_frame":70000,"speaker":"S01","text":"先确认接口边界。"},{"start_frame":65000,"end_frame":80000,"speaker":"S02","text":"我补充失败隔离方案。"}]}

@@ -1,0 +1,10 @@
+{
+  "schema": 1,
+  "repository": "OpenMOSS/MOSS-Transcribe-Diarize",
+  "revision": "cb765f2b0fe6f7a298aa2002e2281ae693d1f3c3",
+  "files": {
+    "LICENSE": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+    "moss_transcribe_diarize/inference_utils.py": "1d97700b83ed95438be2e3a59529b3726d7bf7f7cdd488ad2097180bad15b86b",
+    "moss_transcribe_diarize/transcript_parser.py": "475c564edc128afde69ae27f1fe8575412b1d6ac8f9d6be38b6c7f4bd16b8412"
+  }
+}

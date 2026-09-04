@@ -1,0 +1,21 @@
+# Direct runtime dependencies pinned for the reviewed MOSS adapter.
+# The setup script records the fully resolved transitive environment after install.
+transformers==5.6.0
+huggingface-hub==1.5.0
+tokenizers==0.22.2
+safetensors==0.6.2
+numpy==2.2.6
+# 14.x publishes no CPython 3.12 Windows wheel. 15.0.0 is the oldest release
+# in the upstream av>=14 range with a cp312-win_amd64 wheel.
+av==15.0.0
+librosa==0.11.0
+numba==0.61.2
+soundfile==0.13.1
+soxr==0.5.0.post1
+packaging==25.0
+PyYAML==6.0.2
+regex==2026.8.31
+tqdm==4.67.1
+typer==0.17.4
+psutil==7.0.0
+requests==2.34.2
