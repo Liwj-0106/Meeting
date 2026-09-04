@@ -42,7 +42,7 @@ flowchart LR
 run-meetily.cmd
 ```
 
-脚本会检查项目所在磁盘，并拒绝把便携运行布局放在系统盘根目录下。
+脚本会检查项目所在磁盘，并拒绝把便携运行布局放在 `C:` 盘。
 
 ## 源码开发
 
@@ -92,3 +92,4 @@ llama-helper/   模型辅助进程
 ## License
 
 [MIT](LICENSE.md)
+
