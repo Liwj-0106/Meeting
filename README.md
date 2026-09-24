@@ -37,7 +37,7 @@ flowchart LR
 
 ## Windows 运行
 
-便携脚本会把运行数据、模型、缓存和日志保存在项目的 `portable/\` 目录。准备好便携运行时后，运行：
+便携脚本会把运行数据、模型、缓存和日志保存在项目的 `portable/` 目录。准备好便携运行时后，运行：
 
 ```text
 run-meetily.cmd
